@@ -50,6 +50,7 @@ import cpp from "./tech/cpp.png";
 import bash from "./tech/bash.png";
 
 import aws from "./aws.jpg";
+import dl_ai from "./deeplearningaiicon.png";
 import awsball from "./tech/awsball.png";
 import gcp from "./tech/gcp.webp";
 import heroku from "./tech/heroku.png";
@@ -77,6 +78,7 @@ import awsccp from './cert/aws-ccp.png'
 import gcpdg from './cert//GCP-Cert.png'
 import pythoncert from './cert/python-basic.png'
 import az900 from './cert/az900.png'
+import coursera_1 from './cert/coursera_certificate.png'
 
 
 export {
@@ -146,5 +148,7 @@ export {
   githubs,
   awsball,
   az900,
-  microsoft
+  microsoft,
+  dl_ai,
+  coursera_1
 };

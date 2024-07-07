@@ -56,7 +56,9 @@ import {
   pythoncert,
   awsball,
   az900,
-  microsoft
+  microsoft,
+  dl_ai,
+  coursera_1
 
 } from "../assets";
 
@@ -239,25 +241,25 @@ const experiences = [
 const certifications = [
   {
     name:
-      "AWS Certified Cloud Practitioner",
-    image: awsccp,
-    icon: aws,
-    url: 'https://www.credly.com/badges/57074209-7830-4367-9921-62928eb57aeb/public_url'
+      "Supervised Machine Learning: Regression and Classification ",
+    image: coursera_1,
+    icon: dl_ai,
+    url: 'https://www.coursera.org/account/accomplishments/records/SRLXPJ8BSVZH'
   },
-  {
-    name:
-      "Google Cloud Digital Leader",
-    image: gcpdg,
-    icon: gcp,
-    url: 'https://www.credential.net/b6adac8a-184c-4743-88ca-c5537628fcec?key=005f755bbbbabc1448a3463fd43634cc20af978e8e53952d2f17cf1ba9237d47&record_view=true'
-  },
-  {
-    name:
-    "Microsoft Azure Fundamentals",
-    image: az900,
-    icon: microsoft,
-    url: 'https://www.credly.com/badges/ad668692-9764-4853-903d-f046266c1c15/public_url'
-  },
+  // {
+  //   name:
+  //     "Google Cloud Digital Leader",
+  //   image: gcpdg,
+  //   icon: gcp,
+  //   url: 'https://www.credential.net/b6adac8a-184c-4743-88ca-c5537628fcec?key=005f755bbbbabc1448a3463fd43634cc20af978e8e53952d2f17cf1ba9237d47&record_view=true'
+  // },
+  // {
+  //   name:
+  //   "Microsoft Azure Fundamentals",
+  //   image: az900,
+  //   icon: microsoft,
+  //   url: 'https://www.credly.com/badges/ad668692-9764-4853-903d-f046266c1c15/public_url'
+  // },
   // {
   //   name:
   //     "Python Basics",

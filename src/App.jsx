@@ -17,7 +17,7 @@ const App = () => {
         <Tech />
         <Works />
         {/* Enable the below to show certification */}
-        {/* <Certifications /> */}
+        <Certifications />
         <div className="relative z-0">
           <Contact />
           <StarsCanvas />
